@@ -31,8 +31,8 @@ function hello(name) {
 //AND条件
 //これがifを使った基本形
 let Name = 'Bob';
-if(name) {
-    hello(name);
+if(Name) {
+    hello(Name);
 }
 
 //簡略化するとこのように書く

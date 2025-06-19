@@ -79,3 +79,5 @@ function greeting(name, hi) {
 }
 
 greeting("Bob", "hi");
+
+//全体的にあって入るが問題をよく読みましょう

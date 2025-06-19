@@ -33,4 +33,4 @@ function fn2(arg) {
 const obj4 = fn2(obj); // 問題４
 //{}  obj4には{}が代入されているが元の値は変わってはいない。
 console.log(obj); // 問題４
-// console.log(obj4);
+console.log(obj4);
